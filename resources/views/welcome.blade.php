@@ -17,8 +17,8 @@
             </style>
         @endif
     </head>
-    <h1 style="color: white">My Git Practice Projects</h1>
-    <p style="color: white">I am learning Git with Laravel.</p>
+    <h1 style="color: white">My Git Practice Project</h1>
+    <p style="color: yellow">I am learning Git with Laravel.</p>
 
     <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
         <header class="w-full lg:max-w-4xl max-w-[335px] text-sm mb-6 not-has-[nav]:hidden">
